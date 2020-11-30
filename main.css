@@ -1,0 +1,13 @@
+.toolbar {
+	padding-top: 5px; padding-bottom: 5px;
+}
+
+.toolbar input[type="button"] {
+	padding: 10px;
+	font-size: x-large;
+	/* height: 60px; */
+}
+
+.sq {
+	width: 50px;
+}
